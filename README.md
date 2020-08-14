@@ -1,2 +1,5 @@
 # hello-world
-Getting started
+
+"The only people who never fail are those who never try."
+
+- Ilka Chase
